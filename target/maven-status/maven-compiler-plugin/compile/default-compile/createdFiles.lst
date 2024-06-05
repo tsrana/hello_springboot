@@ -1,0 +1,4 @@
+com\example\hello_springboot\probs\Liveness.class
+com\example\hello_springboot\controller\HelloController.class
+com\example\hello_springboot\HelloSpringbootApplication.class
+com\example\hello_springboot\probs\Readiness.class
